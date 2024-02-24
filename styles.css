@@ -1,4 +1,5 @@
 /*  your css code here. If applicable */
-#tbl{
-	background:yellow
+#tbl,tr,th,td{
+	background:yellow;
+	border:1px solid black;
 }
